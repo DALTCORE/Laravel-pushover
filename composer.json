@@ -1,5 +1,5 @@
 {
-    "name": "dyaa/pushover",
+    "name": "daltcore/pushover",
     "description": "Laravel 5 Pushover Package",
     "keywords": ["laravel", "pushover", "Real Time", "notification","Artisan","CLI","Command"],
     "license": "MIT",
